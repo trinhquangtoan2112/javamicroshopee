@@ -1,0 +1,25 @@
+config-server:
+  config-server
+
+discovery:
+  config-client
+  Eureka Server 
+
+
+gateway:
+  eureka client
+  gateway
+  client config
+Cac service con lai:
+  jpa
+  validation
+  web
+  eureka client
+  config client
+  openfeign
+  kafka 
+  devtools
+  lombok
+  security
+  database
+
