@@ -1,5 +1,6 @@
 server:
-  port: 8701
+  port: 8705
+
 
 spring:
   datasource:
@@ -19,5 +20,3 @@ spring:
     baseline-version: 0
     user: ${spring.datasource.username}
     password: ${spring.datasource.password}
-  
-  
